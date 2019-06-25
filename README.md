@@ -14,7 +14,7 @@ Learning how to set up a GraphQL client on an Apollo server.
 
 ` node index.js `
 
-* sample query *
+_sample query_ 
 ```
 query {
   getBooks {
